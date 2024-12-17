@@ -6,9 +6,3 @@
 
 ## Who are we
 Well, who are we?
-
-## Announcements
-Company Annoucements Here
-
-## Current Projects
-Publicly Available Info On Projects Here
